@@ -4,6 +4,7 @@ A React-based crypto app providing real-time market data, portfolio tracking, an
 Users can buy, sell, and monitor their favorite cryptocurrencies with intuitive UI/UX. Enjoy a seamless 
 experience with cutting-edge security features.
 
+# Crypto app
 
 Website Link:- https://cryptoapp-heman.netlify.app/coins
 
